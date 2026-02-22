@@ -65,9 +65,9 @@ const Philosophy = () => {
             <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
                 <img
                     ref={parallaxBgRef}
-                    src="https://images.unsplash.com/photo-1542385151-efd9000785a0?q=80&w=2669&auto=format&fit=crop"
-                    alt="Organic Moss Texture"
-                    className="w-full h-[130%] object-cover opacity-10 mix-blend-overlay origin-top transform -translate-y-[15%]"
+                    src="/joy-abstract-manifesto.png"
+                    alt="Digital Ownership Visualization"
+                    className="w-full h-[130%] object-cover opacity-20 mix-blend-overlay origin-top transform -translate-y-[15%]"
                 />
                 <div className="absolute inset-0 bg-gradient-to-b from-background via-transparent to-[#111] opacity-60"></div>
             </div>
