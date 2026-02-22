@@ -65,8 +65,8 @@ const Philosophy = () => {
             <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
                 <img
                     ref={parallaxBgRef}
-                    src="/joy-abstract-manifesto.png"
-                    alt="Digital Ownership Visualization"
+                    src="/joy-gaming-abstract.png"
+                    alt="Abstract Gaming Console Visualization"
                     className="w-full h-[130%] object-cover opacity-20 mix-blend-overlay origin-top transform -translate-y-[15%]"
                 />
                 <div className="absolute inset-0 bg-gradient-to-b from-background via-transparent to-[#111] opacity-60"></div>
